@@ -1,0 +1,17 @@
+*.iml
+.idea/
+build
+.gradle
+.settings
+/build/
+/.settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs
+/.nb-gradle/
+distributions
+/SSL1_data.dat
+/bin/
+/.gradle
+/.settings/
+/.classpath
+.vagrant
+.DS_Store
+.project
