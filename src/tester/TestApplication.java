@@ -1,12 +1,7 @@
 package tester;
 
 import dao.CityDAO;
-import dao.EmployeeDAO;
-import models.Employee;
 import models.City;
-
-import java.util.List;
-import java.util.ArrayList;
 
 public class TestApplication {
 
@@ -21,7 +16,6 @@ public class TestApplication {
 		City insertCity = new City();
 		
 		// Step 2 : set the testemployees data to mocak data
-		
 		insertCity.setId(4081);
 		insertCity.setName("Jersey City");
 		insertCity.setCountryName("USA");
